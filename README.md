@@ -1,3 +1,8 @@
+As you can see in the screenshot below, this application is broken. Since the issues section is closed in this fork repository, I thought this was the only way to show the problem.
+<img width="1920" height="1080" alt="resim" src="https://github.com/user-attachments/assets/839a2de4-4490-430c-9d96-3690c55c724b" />
+
+
+
 # Trauso (TeraBox Downloader) v2
 
 ![License](https://img.shields.io/github/license/basstimam/trauso)
